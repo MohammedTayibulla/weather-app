@@ -1,6 +1,18 @@
 .App {
   text-align: center;
 }
+.footer{
+  background-color: orange;
+}
+
+.clouds{
+  background-size: cover;
+  background-image: url("images/cloud.png") !important;
+}
+.clear{
+  background-size: cover;
+    background-image: url("images/clear.png") !important;
+}
 
 .App-logo {
   height: 40vmin;
